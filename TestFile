@@ -3,3 +3,5 @@ I guess one could place requirements into the repository, but that might be a li
 Editing this file...
 
 Can you associate an issue with the code?  Let's see by using a hash statement in the check-in information
+
+okay - got it to work with issue numbers, what about plain old hash statements?
