@@ -5,3 +5,5 @@ Editing this file...
 Can you associate an issue with the code?  Let's see by using a hash statement in the check-in information
 
 okay - got it to work with issue numbers, what about plain old hash statements?
+
+Okay - that doesn't work, let's do it by issue number
