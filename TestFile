@@ -1,11 +1,2 @@
-I guess one could place requirements into the repository, but that might be a little janky
-
-Editing this file...
-
-Can you associate an issue with the code?  Let's see by using a hash statement in the check-in information
-
-okay - got it to work with issue numbers, what about plain old hash statements?
-
-Okay - that doesn't work, let's do it by issue number
-
-We're going to make a pull-request to see how pull-request issues are created.
+This file will be used to demonstrate how to commit changes, what happens w/ branching and merging,
+and how to link issues.
